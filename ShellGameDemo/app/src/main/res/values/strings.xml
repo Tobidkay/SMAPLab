@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShellGameDemo</string>
+    <string name="counter">Counter:</string>
+    <string name="reset_counter">Reset Counter</string>
+</resources>
