@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultipleActivities</string>
+    <string name="textOne">Press the button to navigate to another window</string>
+    <string name="textTwo">There is an empty text field here press the edit button to make some text appear</string>
+    <string name="btnText">Pressss meeeee for edit</string>
+    <string name="secondScreenText">Welcome to the 2nd Screen :) \n Add some text to the field below and press dat edit button</string>
+    <string name="editBtnText">Edit</string>
+    <string name="Test1">Take me back it is scary in here</string>
+    <string name="hintText">Put some random stuff in here boi >.></string>
+</resources>
