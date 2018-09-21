@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppUIStuff</string>
+    <string name="welcomeValue">Try all the different button. Have fun :)</string>
+    <string name="nameValue">Name:</string>
+    <string name="emailValue">Email:</string>
+    <string name="phoneValue">Phone nr.:</string>
+    <string name="pickyValue">Dont be picky ;)</string>
+    <string name="editValue">Edit some stuff</string>
+    <string name="rgbValue">Choose a color</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
